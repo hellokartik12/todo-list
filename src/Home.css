@@ -1,0 +1,17 @@
+.con{
+    background-image: url("../img/bgimg.jpg");
+   height: 89.7vh;
+   background-size: cover;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.con h1{
+    font-size: 70px;
+    color: rgb(67, 78, 78);
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 250px;
+}
